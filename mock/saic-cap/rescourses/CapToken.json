@@ -1,0 +1,177 @@
+{
+  "Status": 1,
+  "MessageCode": "Success",
+  "Message": null,
+  "data": {
+    "application_number": "MB1010022104080016-0",
+    "call_type": "call1",
+    "date": "2021-06-24",
+    "application_type": "00002",
+    "Applicant": {
+      "borrower_type": "company",
+      "guarantor_type": "both",
+      "Applicant_Company": {
+        "c_company_sts": "91321324675456997L",
+        "c_company_thi_nme": "深圳市恒凯达科技有限公司",
+        "c_organization_code": "ORG01",
+        "c_isnew": false,
+        "c_pre_decline_flag": true,
+        "Internal_Payment_History": [
+          {
+            "contract_no": "哈哈哈",
+            "role": "Spouse",
+            "status": "",
+            "delinquency_history": "",
+            "application_number": "MB1010022104080015-0",
+            "application_status": "In Process",
+            "guarantor_relationship": "",
+            "outstanding_principal": "",
+            "maximum_overdue_days": "",
+            "final_decision_status": "",
+            "final_decision_reason": "",
+            "final_decision_timestamp": ""
+          },
+          {
+            "contract_no": "哈哈哈",
+            "role": "Spouse",
+            "status": "",
+            "delinquency_history": "",
+            "application_number": "MB1010022104080015-0",
+            "application_status": "In Process",
+            "guarantor_relationship": "1234",
+            "outstanding_principal": "",
+            "maximum_overdue_days": "",
+            "final_decision_status": "",
+            "final_decision_reason": "",
+            "final_decision_timestamp": ""
+          }
+        ]
+      },
+      "Applicant_Guarantor_I": [
+        {
+          "gi_id_card_typ": "00001",
+          "gi_id_card_nbr": "410123197902020050",
+          "gi_first_thi_nme": "李兆许",
+          "gi_isnew": false,
+          "gi_pre_decline_flag": true,
+          "Applicant_I_Spouse_Information": {
+            "spouse_name": "马双",
+            "spouse_id_type": "00001",
+            "spouse_id_number": "659001199003061228",
+            "spouse_employer": "石河子城投集团",
+            "spouse_mobile_no": "13779209623",
+            "Internal_Payment_History": [
+              {
+                "contract_no": "哈哈哈",
+                "role": "Borrower",
+                "status": "",
+                "delinquency_history": "",
+                "application_number": "MB1010022104080015-0",
+                "application_status": "In Process",
+                "guarantor_relationship": "",
+                "outstanding_principal": "",
+                "maximum_overdue_days": "",
+                "final_decision_status": "",
+                "final_decision_reason": "",
+                "final_decision_timestamp": ""
+              },
+              {
+                "contract_no": "哈哈哈",
+                "role": "Borrower",
+                "status": "",
+                "delinquency_history": "",
+                "application_number": "MB1010022104080015-0",
+                "application_status": "In Process",
+                "guarantor_relationship": "",
+                "outstanding_principal": "",
+                "maximum_overdue_days": "",
+                "final_decision_status": "",
+                "final_decision_reason": "",
+                "final_decision_timestamp": ""
+              }
+            ]
+          },
+          "Internal_Payment_History": [
+            {
+              "contract_no": "哈哈哈",
+              "role": "Spouse",
+              "status": "",
+              "delinquency_history": "",
+              "application_number": "MB1010022104080015-0",
+              "application_status": "In Process",
+              "guarantor_relationship": "",
+              "outstanding_principal": "",
+              "maximum_overdue_days": "",
+              "final_decision_status": "",
+              "final_decision_reason": "",
+              "final_decision_timestamp": ""
+            },
+            {
+              "contract_no": "哈哈哈",
+              "role": "Spouse",
+              "status": "",
+              "delinquency_history": "",
+              "application_number": "MB1010022104080015-0",
+              "application_status": "In Process",
+              "guarantor_relationship": "",
+              "outstanding_principal": "",
+              "maximum_overdue_days": "",
+              "final_decision_status": "",
+              "final_decision_reason": "",
+              "final_decision_timestamp": ""
+            }
+          ]
+        }
+      ],
+      "Applicant_Guarantor_C": [
+        {
+          "gc_company_sts": "91440300587934611H",
+          "gc_company_thi_nme": "北京市恒达达科技有限公司",
+          "gc_organization_code": "ORG02",
+          "gc_isnew": false,
+          "gc_pre_decline_flag": true,
+          "Internal_Payment_History": [
+            {
+              "contract_no": "",
+              "role": "Spouse",
+              "status": "",
+              "delinquency_history": "",
+              "application_number": "MB1010022104080015-0",
+              "application_status": "In Process",
+              "guarantor_relationship": "",
+              "outstanding_principal": "",
+              "maximum_overdue_days": "",
+              "final_decision_status": "",
+              "final_decision_reason": "",
+              "final_decision_timestamp": ""
+            },
+            {
+              "contract_no": "",
+              "role": "Spouse",
+              "status": "",
+              "delinquency_history": "",
+              "application_number": "MB1010022104080015-0",
+              "application_status": "In Process",
+              "guarantor_relationship": "",
+              "outstanding_principal": "",
+              "maximum_overdue_days": "",
+              "final_decision_status": "",
+              "final_decision_reason": "",
+              "final_decision_timestamp": ""
+            }
+          ]
+        }
+      ],
+      "Applicant_Exposure": {
+        "mbafc_cap_exposure": "2031240",
+        "mbafc_cms_exposure": "0",
+        "mblc_cap_exposure": "2521393.8",
+        "mblc_cms_exposure": "0",
+        "total_exposure": "4552633.8",
+        "total_monthly_installment": "75642.58",
+        "total_installment_adj_debt": "75642.58",
+        "total_bank_loan_adj_debt": "0"
+      }
+    }
+  }
+}

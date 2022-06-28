@@ -1,0 +1,46 @@
+{
+  "msg": "查询成功",
+  "code": "001",
+  "data": {
+    "ryposshas": [],
+    "ryposfrs": [
+      {
+        "creditCode": "123",
+        "esdate": "2012-07-16",
+        "regno": "521721611037998",
+        "creditcode": "91521727MW6GQ5C55K",
+        "entname": "xx县xxx店",
+        "enttype": "个体",
+        "regcap": "3.500000",
+        "palgorithmid": "V1!AfWQCy0F/XYnBxUPbsWBzopwur43QcoWhS9/9UTrVtw7B/3WKvOc0soQ0r6AvcTOmjHrPx7g9bMD<n>tpwbtMx7yw==",
+        "ryname": "xxx",
+        "regorgprovince": "贵州省",
+        "industryphyname": "批发和零售业",
+        "entstatus": "在营（开业）",
+        "regcapcur": "人民币元"
+      }
+    ],
+    "entcaseinfos": [
+      {
+        "creditCode": "123",
+        "unitName": "123456",
+        "penDecNo": "123456",
+        "penContent": "123456"
+      }
+    ],
+    "punisheds": [],
+    "punishbreaks": [
+      {
+        "INAMECLEAN": "123456654321"
+      },
+      {
+        "INAMECLEAN": "12345678098765432"
+      }
+    ],
+    "rypospers": [
+      {
+        "creditCode": "123"
+      }
+    ]
+  }
+}
