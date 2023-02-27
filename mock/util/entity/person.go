@@ -10,7 +10,7 @@ type Person struct {
 var person Person
 
 func ParsePerson() *Person {
-	person :=&Person{}
+	person := &Person{}
 	person.name = "我"
 	return person
 }
@@ -27,4 +27,3 @@ func SetPerson(name string, year int) Person {
 	}
 	return person
 }
-
